@@ -22,5 +22,4 @@ _ Về phần CSDL:
 
 + Khi vào trong trang admin có thể thêm xoá sửa sản phẩm, danh mục, loại sản phẩm, xem các sản phẩm 
 
-##### Link github : 
-###### Tiêu đề cấp 6
+##### Link github : "https://github.com/phuongkhanh789/mypham"
